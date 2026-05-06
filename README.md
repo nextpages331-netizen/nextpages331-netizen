@@ -1,68 +1,71 @@
-# 👋 Welcome to Mureka Codex Company Repository  
+# 👋 Welcome to My GitHub Profile
 
-Welcome to the official GitHub profile of **Mureka Codex Company**! We specialize in delivering cutting-edge solutions across various tech domains, showcasing our expertise in software development, innovation, and impactful contributions to the tech community.  
-
----
-
-## About Us  
-
-**Victor Kinoti**  
-Lead Software Engineer | Nairobi, Kenya  
-
-Victor Kinoti, our lead engineer, is a visionary software developer with a proven track record in building scalable and innovative solutions. Based in Nairobi, Kenya, Victor spearheads our projects with a focus on quality, creativity, and community-driven development.  
-
-🌟 **Explore Our Work**  
-Discover our diverse range of projects and contributions:  
-[https://github.com/Karemu1842call](https://github.com/Karemu1842call)  
+Hi there! I'm **Momanyi Osoro**, a passionate software developer dedicated to building practical, user-focused solutions and continuously improving my craft. I enjoy exploring new technologies, solving real-world problems, and contributing to meaningful projects.
 
 ---
 
-## 👀 Our Focus Areas  
+## 🧑‍💻 About Me
 
-- **Full-stack Web Development**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)  
+I am a developer with a growing skill set in modern programming languages and tools. I focus on writing clean, efficient, and maintainable code while building applications that create real impact.
 
-- **Mobile App Development**  
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
-  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)  
-
-- **Machine Learning & Data Science**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9933?logo=jupyter&logoColor=white&style=flat)  
-
-- **Open-Source Contributions**  
-- **Cloud Computing & DevOps Practices**  
-- **Interactive Data Visualizations & Dashboards**  
+🌟 **Explore My Work**
+Check out my projects and contributions:
+https://github.com/nextpages331-netizen
 
 ---
 
-## 🌱 Current Initiatives  
+## 👀 Focus Areas
 
-We are continually expanding our expertise in:  
-- Advanced data structures and algorithms  
-- Cloud technologies like ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat) and ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)  
-- CI/CD pipeline development for seamless deployments  
-- Modern JavaScript frameworks such as ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) and Svelte  
-- User-centric UI/UX design for enhanced experiences  
-- Data storytelling using ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) and ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9933?logo=jupyter&logoColor=white&style=flat)  
+* **Full-stack Web Development**
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=white\&style=flat)
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby\&logoColor=white\&style=flat)
+
+* **Mobile App Development**
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter\&logoColor=white\&style=flat)
+  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react\&logoColor=white\&style=flat)
+
+* **Machine Learning & Data Science**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=flat)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9933?logo=jupyter\&logoColor=white\&style=flat)
+
+* Open-source contributions
+
+* Cloud computing & DevOps practices
+
+* Interactive data visualizations & dashboards
 
 ---
 
-## 💼 Collaboration Opportunities  
+## 🌱 Currently Learning & Exploring
 
-We are open to collaborating on:  
-- Open-source projects in web or mobile development  
-- Data science and machine learning initiatives  
-- Innovative startup ideas focusing on sustainability or social impact  
-- Tools and libraries to enhance developer productivity  
-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)-focused backend and web solutions  
+* Advanced data structures and algorithms
+* Cloud platforms like ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws\&logoColor=white\&style=flat) and ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud\&logoColor=white\&style=flat)
+* CI/CD pipelines for efficient deployments
+* Modern frameworks like ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js\&logoColor=white\&style=flat) and Svelte
+* UI/UX design for better user experiences
+* Data storytelling with ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=flat)
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+
+* Open-source projects (web, mobile, or backend)
+* Data science and machine learning projects
+* Innovative ideas with social impact
+* Developer tools and productivity solutions
+
+---
+
+🚀 *Always learning, always building.*
+
 
 ---
 
 ## 📫 Connect with Us  
 
-- **Email**: [kinotivictor24@gmail.com](mailto:kinotivictor24@gmail.com)  
+- **Email**: [nextpages331@gmail.com](mailto:nextpages331@gmail.com)  
 
 ---
 
